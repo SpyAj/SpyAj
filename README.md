@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently a student
+- 📫 Reach me at any of my social profile.
 
 <!--
 **spyaj/spyaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
